@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=joemar-tagpuno&color=green)
+[![](https://komarev.com/ghpvc/?username=joemar-tagpuno&color=green)](https://github.com/antonkomarev/github-profile-views-counter)
 
 # Hi there 👋, I'm Joemar :bow:
 
@@ -19,9 +19,7 @@
 - 📫  You can reach me at [LinkedIn.com](https://www.linkedin.com/in/joemar-tagpuno-2431889b).
 - ⚡ Fun fact: If you are a developer and want to live a peaceful life, start [writing tests](https://docs.python-guide.org/writing/tests/) on your code.
 
----
-
-Github profile views counter badge by [Anton Komarev](https://github.com/antonkomarev/github-profile-views-counter).
+[![Joemar's Github Stats](https://github-readme-stats.vercel.app/api?username=joemar-tagpuno&count_private=true&show_icons=true&include_all_commits=true&show_owner=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **joemar-tagpuno/joemar-tagpuno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
