@@ -10,7 +10,7 @@
 - 🛠️  I work with :
   -  [DigitalOcean](https://m.do.co/c/96903a5f6fc4) and AWS
   -  PHP ([Laravel](https://laravel.com/) and [Symfony](https://symfony.com/))
-  -  Storage ([MySQL](https://mariadb.org/), [SQLite](https://sqlite.org/index.html) and [Neo4j](https://neo4j.com/))
+  -  Storage ([MySQL](https://mariadb.org/), [SQLite](https://sqlite.org/index.html), [Neo4j](https://neo4j.com/) and [Redis](https://redis.io/))
   -  JS ([Vue](https://vuejs.org/), [React](https://reactjs.org/), [Redux](https://redux.js.org/) and [Webpack](https://webpack.js.org/))
   -  [Tailwind](https://tailwindcss.com/) / [Bootstrap](https://getbootstrap.com/) (CSS, SCSS)
   -  [Docker](https://www.docker.com/) 
