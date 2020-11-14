@@ -1,6 +1,8 @@
+![](https://komarev.com/ghpvc/?username=joemar-tagpuno&color=green)
+
 # Hi there 👋, I'm Joemar :bow:
 
-### I'm a full-stack web developer 👻 and live on [Ciudad de Cebu](https://en.wikipedia.org/wiki/Cebu_City), Philippines.
+#### I'm a full-stack web developer 👻 from [Ciudad de Cebu](https://en.wikipedia.org/wiki/Cebu_City), Philippines.
 
 ---
 
@@ -14,11 +16,10 @@
   -  [Docker](https://www.docker.com/) 
   -  and [Node](https://nodejs.org/)
 - 🌱 I’m currently practicing deep into [DevOps](https://en.wikipedia.org/wiki/DevOps) and learning [Micro Frontend Architecture](https://micro-frontends.org/).
-- 📫  You can reach me at [LinkedIn.com](www.linkedin.com/in/joemar-tagpuno-2431889b).
+- 📫  You can reach me at [LinkedIn.com](https://www.linkedin.com/in/joemar-tagpuno-2431889b).
 - ⚡ Fun fact: If you are a developer and want to live a peaceful life, start [writing tests](https://docs.python-guide.org/writing/tests/) on your code.
 
-
-![](https://komarev.com/ghpvc/?username=joemar-tagpuno&color=green)
+---
 
 Github profile views counter badge by [Anton Komarev](https://github.com/antonkomarev/github-profile-views-counter).
 
