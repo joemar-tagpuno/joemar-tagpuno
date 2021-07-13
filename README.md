@@ -19,9 +19,9 @@
 - 📫  You can reach me at [LinkedIn.com](https://www.linkedin.com/in/joemar-tagpuno-2431889b).
 - ⚡ Fun fact: If you are a developer and want to live a peaceful life, start [writing tests](https://docs.python-guide.org/writing/tests/) on your code.
 
-[![Joemar's Github Stats](https://github-readme-stats.vercel.app/api?username=joemar-tagpuno&count_private=true&show_icons=true&include_all_commits=true&show_owner=true&theme=vue&custom_title=Joemar's%20Github%20Stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Joe's Github Stats](https://github-readme-stats.vercel.app/api?username=joemar-tagpuno&count_private=true&show_icons=true&include_all_commits=true&show_owner=true&icon_color=fc880c&bg_color=23211f&text_color=ffbb7c&title_color=fc880c&custom_title=Joe%27s%20Github%20Stats)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Joemar's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=joetagpuno&layout=compact&theme=vue&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Joe's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=joetagpuno&layout=compact&show_icons=true&bg_color=23211f&text_color=ffbb7c&title_color=fc880c)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **joemar-tagpuno/joemar-tagpuno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
