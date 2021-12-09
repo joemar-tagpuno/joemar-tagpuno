@@ -2,18 +2,18 @@
 
 # Hi there 👋, I'm Joemar :bow:
 
-#### I'm a full-stack developer 👻 from [Ciudad de Cebu](https://en.wikipedia.org/wiki/Cebu_City), Philippines.
+#### I'm a Full-Stack developer 👻 from [Ciudad de Cebu](https://en.wikipedia.org/wiki/Cebu_City), Philippines.
 
 ---
 
-- 👔  Currently, I work as a Sr. lead developer at [RemotoDojo.com](https://remotodojo.com/).
+- 👔  Currently, I'm a Full-Stack developer at [JOE SAS](https://www.joe-app.com/).
 - 🛠️  I work with :
   -  [DigitalOcean](https://m.do.co/c/96903a5f6fc4) and AWS
   -  PHP ([Laravel](https://laravel.com/) and [Symfony](https://symfony.com/))
-  -  Storage ([MySQL](https://mariadb.org/), [SQLite](https://sqlite.org/index.html), [Neo4j](https://neo4j.com/) and [Redis](https://redis.io/))
+  -  Storage ([MySQL](https://mariadb.org/), [PostgreSQL](https://www.postgresql.org/), [SQLite](https://sqlite.org/index.html), [Neo4j](https://neo4j.com/) and [Redis](https://redis.io/))
   -  JavaScript [backend](https://developer.mozilla.org/en-US/docs/Learn/Server-side/First_steps/Web_frameworks#express_node.jsjavascript) and frontend ([Vue](https://vuejs.org/), [React](https://reactjs.org/), [React-native](https://reactnative.dev/), [Redux](https://redux.js.org/) and [Webpack](https://webpack.js.org/))
   -  [Tailwind](https://tailwindcss.com/) / [Bootstrap](https://getbootstrap.com/) (CSS, SCSS)
-  -  [Docker](https://www.docker.com/) 
+  -  [Docker](https://www.docker.com/) and [Terraform](https://www.terraform.io/)
   -  and [Node.js](https://nodejs.org/)
 - 🌱 I’m currently practicing deep into [DevOps](https://en.wikipedia.org/wiki/DevOps) and learning [Micro Frontend Architecture](https://micro-frontends.org/).
 - 📫  You can reach me at [LinkedIn.com](https://www.linkedin.com/in/joemar-tagpuno-2431889b).
