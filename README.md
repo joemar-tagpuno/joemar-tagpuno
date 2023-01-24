@@ -14,7 +14,7 @@
   -  JavaScript [backend](https://developer.mozilla.org/en-US/docs/Learn/Server-side/First_steps/Web_frameworks#express_node.jsjavascript) and frontend ([Vue](https://vuejs.org/), [React](https://reactjs.org/), [React-native](https://reactnative.dev/), [Redux](https://redux.js.org/) and [Webpack](https://webpack.js.org/))
   -  [Tailwind](https://tailwindcss.com/) / [Bootstrap](https://getbootstrap.com/) (CSS, SCSS)
   -  [Docker](https://www.docker.com/) and [Terraform](https://www.terraform.io/)
-  -  and [Node.js](https://nodejs.org/)
+  -  and [Node.js](https://nodejs.org/) with [TypeScript](https://www.typescriptlang.org/).
 - 🌱 I’m currently practicing deep into [DevOps](https://en.wikipedia.org/wiki/DevOps) and learning [Micro Frontend Architecture](https://micro-frontends.org/).
 - 📫  You can reach me at [LinkedIn.com](https://www.linkedin.com/in/joemar-tagpuno-2431889b).
 - ⚡ Fun fact: If you are a developer and want to live a peaceful life, start [writing tests](https://docs.python-guide.org/writing/tests/) on your code.
