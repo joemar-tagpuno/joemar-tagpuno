@@ -15,9 +15,10 @@
   -  [Tailwind](https://tailwindcss.com/) / [Bootstrap](https://getbootstrap.com/) (CSS, SCSS)
   -  [Docker](https://www.docker.com/) and [Terraform](https://www.terraform.io/)
   -  and [Node.js](https://nodejs.org/) with [TypeScript](https://www.typescriptlang.org/).
-- 🌱 I’m currently practicing deep into [DevOps](https://en.wikipedia.org/wiki/DevOps) and learning [Micro Frontend Architecture](https://micro-frontends.org/).
+- 🌱 I’m currently practicing deep into [Clean Architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html), [DDD](https://en.wikipedia.org/wiki/Domain-driven_design), [DevOps](https://en.wikipedia.org/wiki/DevOps) and learning [Micro Frontend Architecture](https://micro-frontends.org/).
 - 📫  You can reach me at [LinkedIn.com](https://www.linkedin.com/in/joemar-tagpuno-2431889b).
 - ⚡ Fun fact: If you are a developer and want to live a peaceful life, start [writing tests](https://docs.python-guide.org/writing/tests/) on your code.
+- 📜 Download my resume [here](https://docs.google.com/document/d/1ef8lCMM3Aq16Ykr7IW0rxK1jjS7S4PS3ajnKmReunRc/edit?usp=sharing).
 
 [![Joe's Github Stats](https://github-readme-stats.vercel.app/api?username=joemar-tagpuno&count_private=true&show_icons=true&include_all_commits=true&show_owner=true&icon_color=fc880c&bg_color=23211f&text_color=ffbb7c&title_color=fc880c&custom_title=Joe%27s%20Github%20Stats)](https://github.com/anuraghazra/github-readme-stats)
 
