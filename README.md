@@ -6,7 +6,7 @@
 
 ---
 
-- 👔  Currently, I'm a Full-Stack developer at [JOE SAS](https://www.joe-app.com/).
+- 👔  Currently, I'm a Full-Stack developer looking for a contract based project.
 - 🛠️  I work with :
   -  [DigitalOcean](https://m.do.co/c/96903a5f6fc4) and AWS
   -  PHP ([Laravel](https://laravel.com/) and [Symfony](https://symfony.com/))
@@ -20,6 +20,11 @@
 - ⚡ Fun fact: If you are a developer and want to live a peaceful life, start [writing tests](https://docs.python-guide.org/writing/tests/) on your code.
 - 📜 Download my resume [here](https://docs.google.com/document/d/1ef8lCMM3Aq16Ykr7IW0rxK1jjS7S4PS3ajnKmReunRc/edit?usp=sharing).
 
+- Work history
+  - My last three (3) years I spent my time as a Full-Stack developer at [Django BNPL](https://django.eu/) formerly [Joe (YC W22)](https://www.linkedin.com/company/joeapp/)
+  - Before that I was a tech lead in a software engency operating in my locall - Cebu City, Philippines
+  - Over all, I have over 10 years of experience as a software developer
+  
 [![Joe's Github Stats](https://github-readme-stats.vercel.app/api?username=joemar-tagpuno&count_private=true&show_icons=true&include_all_commits=true&show_owner=true&icon_color=fc880c&bg_color=23211f&text_color=ffbb7c&title_color=fc880c&custom_title=Joe%27s%20Github%20Stats)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- [![Joe's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=joetagpuno&layout=compact&show_icons=true&bg_color=23211f&text_color=ffbb7c&title_color=fc880c&custom_title=Joe%27s%20Wakatime%20Week%20Stats)](https://github.com/anuraghazra/github-readme-stats) -->
