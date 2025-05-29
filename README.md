@@ -22,7 +22,7 @@
 
 - Work history
   - My last three (3) years I spent my time as a Full-Stack developer at [Django BNPL](https://django.eu/) formerly [Joe (YC W22)](https://www.linkedin.com/company/joeapp/)
-  - Before that I was a tech lead in a software engency operating in my locall - Cebu City, Philippines
+  - Before that I was a tech lead in a software engency operating locally - Cebu City, Central Visayas, Philippines
   - Over all, I have over 10 years of experience as a software developer
   
 [![Joe's Github Stats](https://github-readme-stats.vercel.app/api?username=joemar-tagpuno&count_private=true&show_icons=true&include_all_commits=true&show_owner=true&icon_color=fc880c&bg_color=23211f&text_color=ffbb7c&title_color=fc880c&custom_title=Joe%27s%20Github%20Stats)](https://github.com/anuraghazra/github-readme-stats)
